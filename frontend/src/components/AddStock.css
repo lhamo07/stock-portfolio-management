@@ -1,0 +1,55 @@
+.app{
+    text-align: center;
+    
+}
+
+.form1{
+   
+    display: flex;
+    padding-top: 40px ;
+    align-items: center;
+    justify-content: center;
+}
+ .form1 input{
+    margin :10px;
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+.form1 label{
+    font-weight: bold;
+    text-align: left;
+    
+   
+}
+.form2{
+    
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+}
+.form2 label{
+    font-weight: bold;
+    text-align: left;
+}
+    
+ .form2 input{
+    margin :10px;
+   
+    
+}
+.form2{
+    justify-content: center;
+}
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+div span {
+    font-weight: bold;
+    text-align: left;
+}
+.header{
+    position: 'fixed',
+ }
